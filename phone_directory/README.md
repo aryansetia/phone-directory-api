@@ -1,5 +1,3 @@
-## Assignment Task by InstaHyre
-
 ### Prerequisites
 To run this app, first install all the dependencies and packages.
 ```python3
